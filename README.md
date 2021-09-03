@@ -1,8 +1,8 @@
 ## Bem-vindo(a)! Eu sou a Bruna Magalhães Criscuolo 
  <div>
   <a href="https://github.com/BrunaCriscuolo">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=brunacriscuolo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=material-palenight"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacriscuolo&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunacriscuolo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=material-palenight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacriscuolo&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
